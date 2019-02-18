@@ -1,0 +1,96 @@
+[
+    {
+      "id": 1,
+      "appname": "NYC Subway App",
+      "shortDes":"Never miss the train!",
+      "description":"It displays real-time status of New York City subways; maps to help you organize the trip.",
+      "image":"https://lh3.googleusercontent.com/-Q62-MO64JHM/XD-k_ifwqMI/AAAAAAAAAiY/EoJ-ReVegcAFyeIszvzkDBep8QYPiJoMgCL0BGAs/w663-d-h442-n-rw/train.jpg",
+      "link":"https://safe-lake-78552.herokuapp.com/"
+
+      
+    },
+    {
+        "id": 2,
+        "appname": "Bros Clicky Game",
+        "shortDes":"How far can you go?",
+        "description":"Don't click one brother twice!",
+        "image":"https://lh3.googleusercontent.com/-pz1UxBB9Jf0/XD-kjbZdOdI/AAAAAAAAAh8/TcbyLWdCDCIc9Sy3Q4aqhAUFT46_loK2ACL0BGAs/w663-d-h373-n-rw/super-smash-bros-ultimate-walkthrough-guide-shacknews_feature.jpg",
+        "link":"https://quirky-hypatia-3454b4.netlify.com"
+     
+    },
+    {
+        "id": 3,
+        "appname": "Douban Movie",
+        "shortDes":"Movie night!",
+        "description":"This a web application is a re-edition of Douban.com, you can't the differences, can you?",
+        "image":"http://image.woshipm.com/wp-files/2013/09/56.jpg",
+        "link":"https://shrouded-savannah-60025.herokuapp.com/"
+   
+    },
+    {
+        "id": 4,
+        "appname": "Hangman Game",
+        "shortDes":"Is there a band you love?",
+        "description":"This is a simple word guessing game. Players try to figure out an unknown word by guessing letters. If too many letters which do not appear in the word are guessed, the player lose.",
+        "image":"https://lh3.googleusercontent.com/-jmUK-vjMDVo/XD-X50W0Y2I/AAAAAAAAAhY/VPJEe4r5f0Af5tBbV0yIEgIKJ79e7V37ACL0BGAs/w663-d-h442-n-rw/back.jpeg",
+        "link":"https://modest-benz-4ea6bf.netlify.com"
+   
+    },
+    {
+        "id": 5,
+        "appname": "Trivia Game",
+        "shortDes":"An Astronomy trivia game",
+        "description":"An Astronomy trivia with count down timer",
+        "image":"http://image.aimoo.com/Skins_Images/65160/fact/trivia.gif",
+        "link":"https://csdojo.github.io/TriviaGame/"
+   
+    },
+    {
+        "id": 6,
+        "appname": "Giphy Time",
+        "shortDes":"A Gif search engine",
+        "description":"You can creat new animal tag then search for related animal gifs by click the tag. Unfreeze/freeze the image by clicking",
+        "image":"https://i.pinimg.com/originals/0e/1c/10/0e1c100908962a43f711d0e2caca3a0c.gif",
+        "link":"https://csdojo.github.io/GifTastic/"
+   
+    },
+
+    {
+        "id": 7,
+        "appname": "Schedule that Train",
+        "shortDes":"Your own train schedule table",
+        "description":"Add train information and track it in real time",
+        "image":"https://lh3.googleusercontent.com/-Ec6ocim88M0/XGsEecrJPEI/AAAAAAAAAmA/DcBANo_KyI8e6S24K9y2yZC1yB9tTcrMACL0BGAs/w663-d-h328-n-rw/dddz.PNG",
+        "link":"https://csdojo.github.io/TrainScheduler/"
+   
+    },
+    {
+        "id": 8,
+        "appname": "Note taker",
+        "shortDes":"Simply organize your schedule",
+        "description":"A simple app to save your notes with dynamic emoji tag",
+        "image":"https://lh3.googleusercontent.com/-dJhgPEI3XI8/XGsGiiS353I/AAAAAAAAAmo/trhnPUQoODgjxqvj4fb7CamvfY2Swxq0QCL0BGAs/w663-d-h390-n-rw/d.PNG",
+        "link":"https://tranquil-reef-42947.herokuapp.com/"
+   
+    },
+    {
+        "id": 9,
+        "appname": "Eat Da Burger",
+        "shortDes":"Are you hungry?",
+        "description":"A Burger Eatin' Application With Node.js/Express/MySQL/Handlebars",
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSddbJgXXZ2kIRNgsirHHiQgHSLvgAIUcUnMkJ2ZtAWTV4WsP68g",
+        "link":"https://hidden-ravine-83132.herokuapp.com/"
+   
+    },
+    {
+        "id": 10,
+        "appname": "Mongo Scraper",
+        "shortDes":"Read something good!",
+        "description":"The application will let the user scrape news articles from New York Times website.",
+        "image":"https://cdn.vox-cdn.com/thumbor/-SmppV2xOkTKbVXopm2Ftrd6OJw=/0x0:3000x2000/1200x800/filters:focal(1315x220:1795x700)/cdn.vox-cdn.com/uploads/chorus_image/image/59035787/shutterstock_272424740.0.jpg",
+        "link":"https://enigmatic-ravine-71764.herokuapp.com/"
+   
+    }
+   
+  ]
+  

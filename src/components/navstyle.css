@@ -1,0 +1,30 @@
+*{
+    font-family: Helvetica Neue For Number,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,PingFang SC,Hiragino Sans GB,Microsoft YaHei,Helvetica Neue,Helvetica,Arial,sans-serif;
+}
+.nav-pills {
+   
+    background-image: linear-gradient(to right,#f0abab,#c3e4df);
+   
+}
+.navbar-brand,
+.nav-link{
+    color:black
+}
+
+.nav-link:active{
+    background: #f0abab;
+    background-color:#f0abab
+}
+
+.nav-pills .nav-link.active, .nav-pills .show>.nav-link {
+    color: #fff;
+    background-color: #f0abab;
+}
+
+.nav-link:hover{
+    text-decoration: none
+}
+
+.email{
+    margin-left:100px
+}
