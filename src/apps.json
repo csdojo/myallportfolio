@@ -1,16 +1,23 @@
 [
     {
       "id": 1,
-      "appname": "NYC Subway App",
-      "shortDes":"Never miss the train!",
-      "description":"It displays real-time status of New York City subways; maps to help you organize the trip.",
-      "image":"https://lh3.googleusercontent.com/-Q62-MO64JHM/XD-k_ifwqMI/AAAAAAAAAiY/EoJ-ReVegcAFyeIszvzkDBep8QYPiJoMgCL0BGAs/w663-d-h442-n-rw/train.jpg",
-      "link":"https://safe-lake-78552.herokuapp.com/"
-
-      
+      "appname": "Douban Movie",
+      "shortDes":"Movie night!",
+      "description":"This a web application is a re-edition of Douban.com, you can't the differences, can you?",
+      "image":"http://image.woshipm.com/wp-files/2013/09/56.jpg",
+      "link":"https://shrouded-savannah-60025.herokuapp.com/"
     },
     {
         "id": 2,
+        "appname": "My Product",
+        "shortDes":"30 iN 90",
+        "description":"Team Building Game Card",
+        "image":"https://lh3.googleusercontent.com/-YYc3V8B_h5I/XJabPbrx7tI/AAAAAAAAAuA/W-43yz5M54QoMkt7zyuc4yn7Ggh4_9IAQCL0BGAs/w1060-d-h574-n-rw/cardgame.png",
+        "link":"https://thirtyinninety.herokuapp.com"
+     
+    },
+    {
+        "id": 3,
         "appname": "Bros Clicky Game",
         "shortDes":"How far can you go?",
         "description":"Don't click one brother twice!",
@@ -19,16 +26,16 @@
      
     },
     {
-        "id": 3,
-        "appname": "Douban Movie",
-        "shortDes":"Movie night!",
-        "description":"This a web application is a re-edition of Douban.com, you can't the differences, can you?",
-        "image":"http://image.woshipm.com/wp-files/2013/09/56.jpg",
-        "link":"https://shrouded-savannah-60025.herokuapp.com/"
+        "id": 4,
+        "appname": "NYC Subway App",
+      "shortDes":"Never miss the train!",
+      "description":"It displays real-time status of New York City subways; maps to help you organize the trip.",
+      "image":"https://lh3.googleusercontent.com/-Q62-MO64JHM/XD-k_ifwqMI/AAAAAAAAAiY/EoJ-ReVegcAFyeIszvzkDBep8QYPiJoMgCL0BGAs/w663-d-h442-n-rw/train.jpg",
+      "link":"https://safe-lake-78552.herokuapp.com/"
    
     },
     {
-        "id": 4,
+        "id": 5,
         "appname": "Hangman Game",
         "shortDes":"Is there a band you love?",
         "description":"This is a simple word guessing game. Players try to figure out an unknown word by guessing letters. If too many letters which do not appear in the word are guessed, the player lose.",
@@ -37,7 +44,7 @@
    
     },
     {
-        "id": 5,
+        "id": 6,
         "appname": "Trivia Game",
         "shortDes":"An Astronomy trivia game",
         "description":"An Astronomy trivia with count down timer",
@@ -46,7 +53,7 @@
    
     },
     {
-        "id": 6,
+        "id": 7,
         "appname": "Giphy Time",
         "shortDes":"A Gif search engine",
         "description":"You can creat new animal tag then search for related animal gifs by click the tag. Unfreeze/freeze the image by clicking",
@@ -56,7 +63,7 @@
     },
 
     {
-        "id": 7,
+        "id": 8,
         "appname": "Schedule that Train",
         "shortDes":"Your own train schedule table",
         "description":"Add train information and track it in real time",
@@ -65,7 +72,7 @@
    
     },
     {
-        "id": 8,
+        "id": 9,
         "appname": "Note taker",
         "shortDes":"Simply organize your schedule",
         "description":"A simple app to save your notes with dynamic emoji tag",
@@ -74,7 +81,7 @@
    
     },
     {
-        "id": 9,
+        "id": 10,
         "appname": "Eat Da Burger",
         "shortDes":"Are you hungry?",
         "description":"A Burger Eatin' Application With Node.js/Express/MySQL/Handlebars",
@@ -83,7 +90,7 @@
    
     },
     {
-        "id": 10,
+        "id": 11,
         "appname": "Mongo Scraper",
         "shortDes":"Read something good!",
         "description":"The application will let the user scrape news articles from New York Times website.",
